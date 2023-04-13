@@ -1,2 +1,10 @@
 # 
 */.ipynb_checkpoints
+*.ipynb_checkpoints
+
+*/classifier_data
+
+*.h5
+*.zip
+MineriaDatos/Proyecto/FashionMNIST/
+Temas Selectos/ModelsEnc/
